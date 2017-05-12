@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Task1Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Task2Test.cs" />
+    <Compile Include="Task3Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TheTDDMob\TheTDDMob.csproj">
