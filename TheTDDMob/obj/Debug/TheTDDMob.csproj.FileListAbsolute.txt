@@ -1,6 +1,0 @@
-/Users/mark.ryan/code/TheTDDMob/TheTDDMob/bin/Debug/TheTDDMob.dll
-/Users/mark.ryan/code/TheTDDMob/TheTDDMob/bin/Debug/TheTDDMob.pdb
-/Users/mark.ryan/code/TheTDDMob/TheTDDMob/obj/Debug/TheTDDMob.csprojResolveAssemblyReference.cache
-/Users/mark.ryan/code/TheTDDMob/TheTDDMob/obj/Debug/TheTDDMob.csproj.CoreCompileInputs.cache
-/Users/mark.ryan/code/TheTDDMob/TheTDDMob/obj/Debug/TheTDDMob.dll
-/Users/mark.ryan/code/TheTDDMob/TheTDDMob/obj/Debug/TheTDDMob.pdb
