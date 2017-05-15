@@ -40,3 +40,9 @@ The main responsibilities of the driver will be to lead the mob and to write the
 
 ### The Mob
 The mobs resposibility is to steer the driver in creating the best solution. This is done by collaborating to write tests that would define the desired behavior of the program.
+
+### Goals
+* Show how TDD and Mob programming can produce well written code
+* Give everyone on the team experience with writing tests and thinking in a test-first way when developing
+* Get everyone together to see how we collaborate as a team and see if it is something we should be doing more of
+* Try out new collaboration software and see if it might be useful
