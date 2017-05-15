@@ -12,14 +12,14 @@ Benefits:
 	* Easier to decide on best practices, formatting choices when everyone is working together
 * Short feedback loops
 	* Code is peer reviewed as it is being written
-	* Context for the changes are current in everyones mind,
-* Team is more resiliant
+	* Context for the changes are current in everyone’s mind,
+* Team is more resilient
 	* Sick time? Unplanned absences? The rest of the team is already up to speed and actively working on what's in progress
-* Better communication and collaberation
+* Better communication and collaboration
 
 ## Test Driven Development
 
-Test driven development is a software development process in which closely integrates development and testing. The process in traditionally to write a test to verify some interaction or functionality. Then the code is written to fulfill that test case, usually aiming for the smallest, most conceise change possible to make the test pass.
+Test driven development is a software development process in which closely integrates development and testing. The process in traditionally to write a test to verify some interaction or functionality. Then the code is written to fulfill that test case, usually aiming for the smallest, most concise change possible to make the test pass.
 
 Benefits:
 * Short feedback loop between writing code and running code
@@ -39,7 +39,7 @@ Benefits:
 The main responsibilities of the driver will be to lead the mob and to write the actual code for the program. The driver will attempt to write the smallest amount of code possible to get the tests to pass.
 
 ### The Mob
-The mobs resposibility is to steer the driver in creating the best solution. This is done by collaborating to write tests that would define the desired behavior of the program.
+The mobs responsibility is to steer the driver in creating the best solution. This is done by collaborating to write tests that would define the desired behavior of the program.
 
 ### Goals
 * Show how TDD and Mob programming can produce well written code
