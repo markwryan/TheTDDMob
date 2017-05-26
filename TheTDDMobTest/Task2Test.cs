@@ -8,14 +8,36 @@ namespace TheTDDMobTest
         [TestFixture]
         public class Tests
         {
-            /// <summary>
-            /// This is a bad test, replace with good tests
-            /// </summary>
             [Test]
-            public void BadTest()
+            public void mostCommonCharacter_ReturnsInputGiven()
             {
-                Assert.False(Task2.mostCommonCharacter(null) == 'a');
+                Assert.True(Task2.mostCommonCharacter("a") == 'a');
             }
+
+            [Test]
+            public void DifferentTest()
+            {
+                Assert.True(Task2.mostCommonCharacter("bb") == 'b');
+            }
+
+            [Test]
+            public void Test3()
+            {
+                Assert.IsTrue(Task2.mostCommonCharacter("cbb") == 'b');
+            }
+
+            [Test]
+            public void Test4()
+            {
+                Assert.IsTrue((Task2.mostCommonCharacter("ccbb")) == 'c');
+            }
+
+            [Test]
+            public void Test5()
+            {
+                Assert.IsTrue(Task2.mostCommonCharacter("bbaaaabb") == 'b');
+            }
+    
         }
     }
 }
