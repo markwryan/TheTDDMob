@@ -12,7 +12,7 @@ namespace TheTDDMobTest
         [Test]
         public void BadTest()
         {
-            Assert.False(Task1.IsInRectangle(null, null));
+            Assert.False(Task1.IsInRectangle());
         }
     }
 }

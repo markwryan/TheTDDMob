@@ -1,3 +1,5 @@
 packages/
 target/
 .idea/
+**/bin/
+**/obj/
